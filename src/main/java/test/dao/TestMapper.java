@@ -1,6 +1,6 @@
 package test.dao;
 
-import test.model.Test;
+import test.bean.Test;
 
 public interface TestMapper {
     /**

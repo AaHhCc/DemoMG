@@ -1,6 +1,6 @@
 package test.dao;
 
-import test.model.Login;
+import test.bean.Login;
 
 public interface LoginMapper {
     /**

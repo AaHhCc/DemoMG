@@ -1,4 +1,4 @@
-package test.model;
+package test.bean;
 
 public class Login {
     /**
